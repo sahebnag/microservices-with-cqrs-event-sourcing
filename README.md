@@ -1,6 +1,5 @@
 # microservices-with-cqrs-event-sourcing
-![Architecture Diagram](microservices-with-cqrs-event-sourcing/OrderManagementMicroservices
-/Architecture/OrderManagement_success_scenario_with_crqs_event_sourcing.jpg)
+![Architecture Diagram](microservices-with-cqrs-event-sourcing/OrderManagementMicroservices/Architecture/OrderManagement_success_scenario_with_crqs_event_sourcing.jpg)
 
 
 /OrderManagementMicroservices
